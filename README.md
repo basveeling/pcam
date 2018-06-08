@@ -45,6 +45,8 @@ The data is stored in gzipped HDF5 files and can be downloaded using the followi
 
 ## Usage and Tips
 ### Keras Example
+[General dataloader for keras](https://github.com/basveeling/pcam/blob/master/keras/dataset/pcam.py)
+
 ```python
 from keras.utils import HDF5Matrix
 from keras.preprocessing.image import ImageDataGenerator
