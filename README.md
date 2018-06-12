@@ -87,7 +87,8 @@ For problems and questions not fit for a github issue, please email [Bas Veeling
 ## Citing PCam
 If you use PCam in a scientific publication, we would appreciate references to the following paper:
 
-**[1] <TODO> [arXiv:<todo>](http://arxiv.org/abs/<todo>)**
+
+**[1] B. S. Veeling, J. Linmans, J. Winkens, T. Cohen, M. Welling. "Rotation Equivariant CNNs for Digital Pathology". [arXiv:1806.03962](http://arxiv.org/abs/1806.03962)**
 
 A citation of the original Camelyon16 dataset paper is appreciated as well:
 
@@ -96,7 +97,16 @@ A citation of the original Camelyon16 dataset paper is appreciated as well:
 
 Biblatex entry:
 ```latex
-Coming...
+@ARTICLE{Veeling2018-qh,
+  title         = "Rotation Equivariant {CNNs} for Digital Pathology",
+  author        = "Veeling, Bastiaan S and Linmans, Jasper and Winkens, Jim and
+                   Cohen, Taco and Welling, Max",
+  month         =  jun,
+  year          =  2018,
+  archivePrefix = "arXiv",
+  primaryClass  = "cs.CV",
+  eprint        = "1806.03962"
+}
 ```
 
 <!-- [Who is citing PCam?](https://scholar.google.de/scholar?hl=en&as_sdt=0%2C5&q=pcam&btnG=&oq=fas) -->
@@ -117,8 +127,8 @@ Contributions with example scripts for other frameworks are welcome!
 ## License
 The data is provided under the [CC0 License](https://choosealicense.com/licenses/cc0-1.0/), following the license of Camelyon16.
 
-The rest of this repository is under the [MIT License](https://choosealicense.com/licenses/mit/)
+The rest of this repository is under the [MIT License](https://choosealicense.com/licenses/mit/).
 
 ## Acknowledgements
 * Babak Ehteshami Bejnordi, Geert Litjens, Jeroen van der Laak for their input on the configuration of this dataset.
-* README derived from [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)
+* README derived from [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist).
