@@ -28,7 +28,7 @@ We think PCam can play a role in this. It packs the clinically-relevant task of 
 
 ## Download
 The data is stored in gzipped HDF5 files and can be downloaded using the following links. Each set consist of a data and target file. An additional meta csv file is provided which describes from which Camelyon16 slide the patches were extracted from, but this information is not used in training for or evaluating the benchmark. Please report any downloading problems via a github issue.
-
+Download all at once from [Google Drive](https://drive.google.com/drive/folders/1gHou49cA1s5vua2V5L98Lt8TiWA3FrKB?usp=sharing).
 | Name  | Content | Size | Link | MD5 Checksum|
 | --- | --- |--- | --- |--- |
 | `camelyonpatch_level_2_split_train_x.h5.gz` | training images | 6.1 GB | [Download](https://drive.google.com/uc?export=download&id=1Ka0XfEMiwgCYPdTI-vv6eUElOBnKFKQ2)|`1571f514728f59376b705fc836ff4b63`|
