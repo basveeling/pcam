@@ -117,7 +117,7 @@ Biblatex entry:
 ## Benchmark
 | Name  | Reference | Augmentations | Acc | AUC|  NLL | FROC* |
 | --- | --- | --- | --- | --- | --- | --- |
-| GDensenet | TODO ARXIV | Following Liu et al. | 89.8 | 96.3 |  0.260 |75.8 (64.3, 87.2)|
+| GDensenet | [1] | Following Liu et al. | 89.8 | 96.3 |  0.260 |75.8 (64.3, 87.2)|
 | [Add yours](https://github.com/basveeling/pcam/compare) | |
 
 \* Performance on Camelyon16 tumor detection task, not part of the PCam benchmark.
