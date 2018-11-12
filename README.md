@@ -47,7 +47,7 @@ Download all at once from [Google Drive](https://drive.google.com/drive/folders/
 
 ## Usage and Tips
 ### Keras Example
-[General dataloader for keras](https://github.com/basveeling/pcam/blob/master/keras/dataset/pcam.py)
+[General dataloader for keras](https://github.com/basveeling/pcam/blob/master/keras_pcam/dataset/pcam.py)
 
 ```python
 from keras.utils import HDF5Matrix
