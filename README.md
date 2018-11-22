@@ -43,7 +43,8 @@ Download all at once from [Google Drive](https://drive.google.com/drive/folders/
 | `camelyonpatch_level_2_split_valid_meta.csv` | valid meta | | [Download](https://drive.google.com/uc?export=download&id=16hJfGFCZEcvR3lr38v3XCaD5iH1Bnclg)|`3455fd69135b66734e1008f3af684566`|
 | `camelyonpatch_level_2_split_test_meta.csv`  | test meta |  | [Download](https://drive.google.com/uc?export=download&id=19tj7fBlQQrd4DapCjhZrom_fA4QlHqN4)|`67589e00a4a37ec317f2d1932c7502ca`|
 
-
+#### Mirror Zenodo:
+https://zenodo.org/record/1494286
 
 ## Usage and Tips
 ### Keras Example
