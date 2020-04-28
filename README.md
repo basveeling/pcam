@@ -46,6 +46,9 @@ Download all at once from [Google Drive](https://drive.google.com/drive/folders/
 #### Mirror Zenodo:
 https://zenodo.org/record/2546921
 
+#### Baidu AI Studio:
+https://aistudio.baidu.com/aistudio/datasetdetail/30060
+
 ## Usage and Tips
 ### Keras Example
 [General dataloader for keras](https://github.com/basveeling/pcam/blob/master/keras_pcam/dataset/pcam.py)
