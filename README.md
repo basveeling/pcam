@@ -102,7 +102,7 @@ A citation of the original Camelyon16 dataset paper is appreciated as well:
 
 
 Biblatex entry:
-```latex
+```bibtex
 @ARTICLE{Veeling2018-qh,
   title         = "Rotation Equivariant {CNNs} for Digital Pathology",
   author        = "Veeling, Bastiaan S and Linmans, Jasper and Winkens, Jim and
